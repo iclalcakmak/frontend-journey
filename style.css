@@ -1,0 +1,23 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(213, 168, 153);
+    text-align: center;
+}
+
+h1 {
+    color: #5a153d90;
+}
+
+h2 { 
+    color:rgb(90, 82, 143);
+    text-align:left;
+}
+li {
+    color:rgb(2, 2, 2);
+    text-align: left;
+}
+p  {
+   font-family:'poppins';
+   font-size: large;
+   font-feature-settings: "abvm";
+}
